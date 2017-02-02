@@ -1,0 +1,1 @@
+cmd_/home/orges/Desktop/sisteme_operimi/detyra_2/shembulli2/simple.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/orges/Desktop/sisteme_operimi/detyra_2/shembulli2/simple.ko /home/orges/Desktop/sisteme_operimi/detyra_2/shembulli2/simple.o /home/orges/Desktop/sisteme_operimi/detyra_2/shembulli2/simple.mod.o
